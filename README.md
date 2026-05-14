@@ -99,7 +99,3 @@ The notebook includes automated plotting for:
 * **Resolution:** Modify `image_height` and `image_width` to balance speed and accuracy.
 
 > **Note:** This project was developed in **Google Colab** and uses `google.colab.drive` for model persistence. Ensure your directory paths match your Drive structure.
-
-```
-
-```
